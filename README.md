@@ -1,2 +1,2 @@
 # didactic-adventure
-Kid Walk Assist is an IoT add-don designed to assist toddlers with ambulatory issues as a result of a neurological disorder or trauma during gestation in gaining mobility. Data such as distance traveled, weight bearing. etc. are captured and plotted overtime to strengthen OT and or PT.  .  
+Kid Walk Assist is an IoT add-don designed to assist toddlers with ambulatory issues as a result of a neurological disorder or trauma during gestation. Mobility analysis is performed with gathered data to include but not limited to distance traveled and weight bearing. Captured data from usage is plotted and further analyzed to strengthen OT and/or PT patient recommendations. 
